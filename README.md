@@ -9,7 +9,7 @@ At least iOS 6.0
 
 For iPhone only
 
-
+this part is from some advertising project , but 2 years ago , the project has be taken off shelves from app store , so I share this demo
 
 
 
