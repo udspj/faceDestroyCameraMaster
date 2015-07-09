@@ -15,6 +15,6 @@ For iPhone only
 
 ![udspj](https://github.com/udspj/faceDestroyCameraMaster/blob/master/readmeimg/IMG_0471.PNG?raw=true)
 
-![udspj](https://github.com/udspj/faceDestroyCameraMaster/blob/master/readmeimg/IMG_0470.PNG?raw=true)
-
 ![udspj](https://github.com/udspj/faceDestroyCameraMaster/blob/master/readmeimg/IMG_0472.PNG?raw=true)
+
+![udspj](https://github.com/udspj/faceDestroyCameraMaster/blob/master/readmeimg/IMG_0470.PNG?raw=true)
